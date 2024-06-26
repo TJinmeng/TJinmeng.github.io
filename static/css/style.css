@@ -1300,7 +1300,8 @@ textarea {
     object-fit: cover;
     -o-object-position: center;
     object-position: center;
-    vertical-align: top
+    vertical-align: top;
+	pointer-events: none;
 }
 
 @media screen and (max-width:1200px) {
